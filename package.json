@@ -1,0 +1,19 @@
+{
+	"name": "books-read-api",
+	"version": "1.0.0",
+	"description": "API REST, nodejs",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "json-server --watch src/assets/data/info.json"
+	},
+	"keywords": [
+		"javascript",
+		"nodejs",
+		"api"
+	],
+	"author": "Diego Chavez <ingdiegochavez18@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	}
+}

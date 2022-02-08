@@ -1,0 +1,42 @@
+{
+	"Books": [
+		{
+			"id": 1,
+			"name": "¿Quien se ha llevado mi queso?",
+			"author": "Spencer Johnson, M.D.",
+			"sinopsis": " Había una vez dos ratoncitos y dos hombrecillos que vivían en un laberinto. Estos cuatro personajes dependían del queso para alimentarse y ser felices. Como habían encontrado una habitación repleta de queso, vivieron durante un tiempo muy contentos. Pero un buen día el queso desapareció... Esta fábula simple e ingeniosa puede aplicarse a todos los ámbitos de la vida. Con palabras y ejemplos comprensibles incluso para un niño, nos enseña que todo cambia, y que las fórmulas que sirvieron en su momento pueden quedar obsoletas. El 'queso' del relato representa cualquier cosa que queramos alcanzar 'la felicidad, el trabajo, el dinero, el amor' y el laberinto es la realidad, con zonas desconocidas y peligrosas, callejones sin salida, oscuros recovecos... y habitaciones llenas de queso. Escrito por un autor de fama internacional, este relato está prologado por un renombrado consultor empresarial. Sus enseñanzas han servido de inspiración en todo tipo de compañías y organizaciones empresariales. ",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/51MrP+VVf0L._SX320_BO1,204,203,200_.jpg",
+			"categoryId": 1
+		},
+		{
+			"id": 2,
+			"name": "100 fórmulas para llegar al éxito",
+			"author": "P. Eliecer Salesman",
+			"sinopsis": "En este libro están las fórmulas para ser felices y hacer felices a los demás. Técnicas fáciles para llegar a obtener una gran personalidad y lograr coronar nuestros ideales. ",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/51fBrFK1LpL._SX350_BO1,204,203,200_.jpg",
+			"categoryId": 1
+		},
+		{
+			"id": 3,
+			"name": "Fish",
+			"author": " Stephen C. Lundin",
+			"sinopsis": "Nueva edición ampliada del gran éxito mundial. . Libro indispensable para la gestión de equipos. Se trata de una nueva edición de uno de los libros de empresa más importantes del siglo XXI y que se ha convertido en un clásico imprescindible sobre la importancia del trabajo en equipo y la motivación. Además de la historia del libro original sobre el famoso mercado de Pikes Place en Seattle, en esta edición ampliada y reenergizada, los autores han agregado tres breves historias reales más de empresas que han aplicado la filosofía 'Fish!'. De esta forma se puede ver la aplicabilidad de esta forma de gestionar en distintos ámbitos y lugares. Un libro imprescindible para quienes tengan que gestionar personas.",
+			"image": "https://images-na.ssl-images-amazon.com/images/I/41+2iM3JAxL._SX315_BO1,204,203,200_.jpg",
+			"categoryId": 1
+		}
+	],
+	"Categories": [
+		{
+			"id": 1,
+			"name": "Crecimiento Personal"
+		},
+		{
+			"id": 2,
+			"name": "Tecnología"
+		},
+		{
+			"id": 3,
+			"name": "Ficciones"
+		}
+	]
+}
