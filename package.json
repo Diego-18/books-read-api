@@ -4,7 +4,7 @@
 	"description": "API REST, nodejs",
 	"main": "src/index.js",
 	"scripts": {
-		"start": "json-server --watch src/assets/data/info.json"
+		"start": "json-server --watch src/info.json"
 	},
 	"keywords": [
 		"javascript",
